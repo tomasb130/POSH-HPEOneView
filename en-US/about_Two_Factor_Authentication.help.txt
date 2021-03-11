@@ -35,7 +35,7 @@ LONG DESCRIPTION
 
     3. Once authentication is successful, HPE OneView determines the authorization
        permissions for the user.
-
+ 
         * If it is a local user login, authorization permissions are decided based
         on the roles associated with the user.
         * If it is an enterprise directory login, HPE OneView sends a request to the
